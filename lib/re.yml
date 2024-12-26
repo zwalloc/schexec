@@ -1,0 +1,6 @@
+type: static-library
+name: ".lib"
+
+deps:
+  - github:zwalloc/ulib-process ^1.0.0
+  - github:zwalloc/ulib-fmt ^1.0.0

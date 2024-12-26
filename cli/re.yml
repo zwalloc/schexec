@@ -1,0 +1,11 @@
+type: executable
+name: ".cli"
+
+artifact-name: schexec
+
+deps:
+  - .lib
+
+cxx-build-flags:
+  compiler:
+    - "/Zi"
